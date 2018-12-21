@@ -1,0 +1,2 @@
+entryDom.journalBuilder()
+data.getJournalEntries()
